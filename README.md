@@ -5,4 +5,4 @@ This Repo will showcase a simple Effect in **HTML,CSS AND JAVASCRIPT**
 [![HTML](https://img.shields.io/badge/HTML-brightgreen.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-blue.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-## DONT'T FORGET TO GIVE A STAR 😉
+## DON'T FORGET TO GIVE A STAR 😉
