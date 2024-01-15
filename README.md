@@ -6,4 +6,4 @@ This Repo will showcase a simple Effect in **HTML,CSS AND JAVASCRIPT**
 [![CSS](https://img.shields.io/badge/CSS-blue.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 ## DON'T FORGET TO GIVE A STAR 😉
-## STAY TUNED FOR MORE INTERESTING REPO'S
+
